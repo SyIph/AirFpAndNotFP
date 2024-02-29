@@ -1,0 +1,212 @@
+[
+    {
+      "booking_id": "BK001",
+      "departure_city": "Москва",
+      "arrival_city": "Париж",
+      "departure_datetime": "2022-08-01 10:00",
+      "passenger_name": "Иванов Иван"
+    },
+    {
+      "booking_id": "BK002",
+      "departure_city": "Рим",
+      "arrival_city": "Мадрид",
+      "departure_datetime": "2022-08-02 14:30",
+      "passenger_name": "Петров Петр"
+    },
+    {
+      "booking_id": "BK003",
+      "departure_city": "Стамбул",
+      "arrival_city": "Дубаи",
+      "departure_datetime": "2022-08-03 09:15",
+      "passenger_name": "Сидоров Алексей"
+    },
+    {
+      "booking_id": "BK004",
+      "departure_city": "Лондон",
+      "arrival_city": "Нью-Йорк",
+      "departure_datetime": "2022-08-04 12:00",
+      "passenger_name": "Козлова Елена"
+    },
+    {
+      "booking_id": "BK005",
+      "departure_city": "Рим",
+      "arrival_city": "Сидней",
+      "departure_datetime": "2022-08-02 08:45",
+      "passenger_name": "Смирнов Дмитрий"
+    },
+    {
+      "booking_id": "BK006",
+      "departure_city": "Париж",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-06 15:30",
+      "passenger_name": "Волкова Анна"
+    },
+    {
+      "booking_id": "BK007",
+      "departure_city": "Франкфурт",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-07 07:00",
+      "passenger_name": "Новиков Максим"
+    },
+    {
+      "booking_id": "BK008",
+      "departure_city": "Доха",
+      "arrival_city": "Токио",
+      "departure_datetime": "2022-08-08 13:15",
+      "passenger_name": "Морозова Алла"
+    },
+    {
+      "booking_id": "BK009",
+      "departure_city": "Нью-Йорк",
+      "arrival_city": "Лос-Анджелес",
+      "departure_datetime": "2022-08-09 11:30",
+      "passenger_name": "Попов Игорь"
+    },
+    {
+      "booking_id": "BK010",
+      "departure_city": "Сингапур",
+      "arrival_city": "Джакарта",
+      "departure_datetime": "2022-08-10 16:45",
+      "passenger_name": "Михайлова Ольга"
+    },
+    {
+      "booking_id": "BK011",
+      "departure_city": "Дубаи",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-11 20:15",
+      "passenger_name": "Ковалев Сергей"
+    },
+    {
+      "booking_id": "BK012",
+      "departure_city": "Гонконг",
+      "arrival_city": "Токио",
+      "departure_datetime": "2022-08-12 08:30",
+      "passenger_name": "Фролова Евгения"
+    },
+    {
+      "booking_id": "BK013",
+      "departure_city": "Амстердам",
+      "arrival_city": "Барселона",
+      "departure_datetime": "2022-08-13 14:45",
+      "passenger_name": "Кузнецова Татьяна"
+    },
+    {
+      "booking_id": "BK014",
+      "departure_city": "Токио",
+      "arrival_city": "Сеул",
+      "departure_datetime": "2022-08-14 12:00",
+      "passenger_name": "Белов Александр"
+    },
+    {
+      "booking_id": "BK015",
+      "departure_city": "Чикаго",
+      "arrival_city": "Лос-Анджелес",
+      "departure_datetime": "2022-08-15 09:30",
+      "passenger_name": "Васильева Наталья"
+    },
+    {
+      "booking_id": "BK016",
+      "departure_city": "Лондон",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-16 18:15",
+      "passenger_name": "Максимов Денис"
+    },
+    {
+      "booking_id": "BK017",
+      "departure_city": "Париж",
+      "arrival_city": "Лос-Анджелес",
+      "departure_datetime": "2022-08-17 13:45",
+      "passenger_name": "Федоров Степан"
+    },
+    {
+      "booking_id": "BK018",
+      "departure_city": "Стамбул",
+      "arrival_city": "Дели",
+      "departure_datetime": "2022-08-18 11:00",
+      "passenger_name": "Антонова Мария"
+    },
+    {
+      "booking_id": "BK019",
+      "departure_city": "Рим",
+      "arrival_city": "Афины",
+      "departure_datetime": "2022-08-19 08:30",
+      "passenger_name": "Григорьев Алексей"
+    },
+    {
+      "booking_id": "BK020",
+      "departure_city": "Москва",
+      "arrival_city": "Хельсинки",
+      "departure_datetime": "2022-08-20 16:15",
+      "passenger_name": "Носков Сергей"
+    },
+    {
+      "booking_id": "BK021",
+      "departure_city": "Франкфурт",
+      "arrival_city": "Мюнхен",
+      "departure_datetime": "2022-08-21 14:45",
+      "passenger_name": "Тимофеев Дмитрий"
+    },
+    {
+      "booking_id": "BK022",
+      "departure_city": "Дубаи",
+      "arrival_city": "Мельбурн",
+      "departure_datetime": "2022-08-22 10:30",
+      "passenger_name": "Сорокина Юлия"
+    },
+    {
+      "booking_id": "BK023",
+      "departure_city": "Чикаго",
+      "arrival_city": "Сан-Франциско",
+      "departure_datetime": "2022-08-23 09:30",
+      "passenger_name": "Савельев Владимир"
+    },
+    {
+      "booking_id": "BK024",
+      "departure_city": "Лондон",
+      "arrival_city": "Рим",
+      "departure_datetime": "2022-08-24 15:00",
+      "passenger_name": "Комарова Екатерина"
+    },
+    {
+      "booking_id": "BK025",
+      "departure_city": "Париж",
+      "arrival_city": "Франкфурт",
+      "departure_datetime": "2022-08-25 13:45",
+      "passenger_name": "Беляева Анна"
+    },
+    {
+      "booking_id": "BK026",
+      "departure_city": "Стамбул",
+      "arrival_city": "Мюнхен",
+      "departure_datetime": "2022-08-26 21:30",
+      "passenger_name": "Королев Дмитрий"
+    },
+    {
+      "booking_id": "BK027",
+      "departure_city": "Рим",
+      "arrival_city": "Лондон",
+      "departure_datetime": "2022-08-27 18:30",
+      "passenger_name": "Медведева Мария"
+    },
+    {
+      "booking_id": "BK028",
+      "departure_city": "Москва",
+      "arrival_city": "Франкфурт",
+      "departure_datetime": "2022-08-28 11:00",
+      "passenger_name": "Воронина Екатерина"
+    },
+    {
+      "booking_id": "BK029",
+      "departure_city": "Дубаи",
+      "arrival_city": "Доха",
+      "departure_datetime": "2022-08-29 14:45",
+      "passenger_name": "Борисов Артем"
+    },
+    {
+      "booking_id": "BK030",
+      "departure_city": "Лондон",
+      "arrival_city": "Париж",
+      "departure_datetime": "2022-08-30 19:30",
+      "passenger_name": "Алексеева Юлия"
+    }
+  ]

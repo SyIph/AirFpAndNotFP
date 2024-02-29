@@ -1,0 +1,272 @@
+[
+    {
+      "flight_number": "SU101",
+      "departure_city": "Москва",
+      "arrival_city": "Париж",
+      "departure_datetime": "2022-08-01 10:00",
+      "arrival_datetime": "2022-08-01 13:30",
+      "aircraft_type": "Airbus A320",
+      "ticket_price": 200.0
+    },
+    {
+      "flight_number": "AZ705",
+      "departure_city": "Рим",
+      "arrival_city": "Мадрид",
+      "departure_datetime": "2022-08-02 14:30",
+      "arrival_datetime": "2022-08-02 17:45",
+      "aircraft_type": "Boeing 737",
+      "ticket_price": 150.0
+    },
+    {
+      "flight_number": "TK412",
+      "departure_city": "Стамбул",
+      "arrival_city": "Дубаи",
+      "departure_datetime": "2022-08-03 09:15",
+      "arrival_datetime": "2022-08-03 15:00",
+      "aircraft_type": "Airbus A380",
+      "ticket_price": 400.0
+    },
+    {
+      "flight_number": "BA123",
+      "departure_city": "Лондон",
+      "arrival_city": "Нью-Йорк",
+      "departure_datetime": "2022-08-04 12:00",
+      "arrival_datetime": "2022-08-04 20:30",
+      "aircraft_type": "Boeing 747",
+      "ticket_price": 500.0
+    },
+    {
+      "flight_number": "EK789",
+      "departure_city": "Дубаи",
+      "arrival_city": "Сидней",
+      "departure_datetime": "2022-08-05 08:45",
+      "arrival_datetime": "2022-08-06 18:15",
+      "aircraft_type": "Airbus A350",
+      "ticket_price": 800.0
+    },
+    {
+      "flight_number": "AF567",
+      "departure_city": "Франкфурт",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-06 15:30",
+      "arrival_datetime": "2022-08-06 18:00",
+      "aircraft_type": "Airbus A321",
+      "ticket_price": 180.0
+    },
+    {
+      "flight_number": "LH456",
+      "departure_city": "Франкфурт",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-06 07:00",
+      "arrival_datetime": "2022-08-07 09:30",
+      "aircraft_type": "Boeing 737",
+      "ticket_price": 120.0
+    },
+    {
+      "flight_number": "QR812",
+      "departure_city": "Франкфурт",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-08 13:15",
+      "arrival_datetime": "2022-08-08 22:40",
+      "aircraft_type": "Airbus A380",
+      "ticket_price": 550.0
+    },
+    {
+      "flight_number": "UA234",
+      "departure_city": "Нью-Йорк",
+      "arrival_city": "Лос-Анджелес",
+      "departure_datetime": "2022-08-09 11:30",
+      "arrival_datetime": "2022-08-09 14:15",
+      "aircraft_type": "Boeing 777",
+      "ticket_price": 250.0
+    },
+    {
+      "flight_number": "SQ789",
+      "departure_city": "Сингапур",
+      "arrival_city": "Джакарта",
+      "departure_datetime": "2022-08-10 16:45",
+      "arrival_datetime": "2022-08-10 18:30",
+      "aircraft_type": "Airbus A320",
+      "ticket_price": 100.0
+    },
+    {
+      "flight_number": "EK345",
+      "departure_city": "Дубаи",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-11 20:15",
+      "arrival_datetime": "2022-08-12 01:30",
+      "aircraft_type": "Boeing 777",
+      "ticket_price": 300.0
+    },
+    {
+      "flight_number": "CX456",
+      "departure_city": "Гонконг",
+      "arrival_city": "Токио",
+      "departure_datetime": "2022-08-12 08:30",
+      "arrival_datetime": "2022-08-12 11:45",
+      "aircraft_type": "Airbus A350",
+      "ticket_price": 200.0
+    },
+    {
+      "flight_number": "KL789",
+      "departure_city": "Амстердам",
+      "arrival_city": "Барселона",
+      "departure_datetime": "2022-08-13 14:45",
+      "arrival_datetime": "2022-08-13 17:00",
+      "aircraft_type": "Boeing 737",
+      "ticket_price": 150.0
+    },
+    {
+      "flight_number": "JL123",
+      "departure_city": "Токио",
+      "arrival_city": "Сеул",
+      "departure_datetime": "2022-08-14 12:00",
+      "arrival_datetime": "2022-08-14 14:30",
+      "aircraft_type": "Boeing 747",
+      "ticket_price": 180.0
+    },
+    {
+      "flight_number": "AA345",
+      "departure_city": "Чикаго",
+      "arrival_city": "Лос-Анджелес",
+      "departure_datetime": "2022-08-15 09:30",
+      "arrival_datetime": "2022-08-15 12:15",
+      "aircraft_type": "Airbus A320",
+      "ticket_price": 150.0
+    },
+    {
+      "flight_number": "BA678",
+      "departure_city": "Лондон",
+      "arrival_city": "Москва",
+      "departure_datetime": "2022-08-16 18:15",
+      "arrival_datetime": "2022-08-16 21:30",
+      "aircraft_type": "Boeing 777",
+      "ticket_price": 220.0
+    },
+    {
+      "flight_number": "AF901",
+      "departure_city": "Париж",
+      "arrival_city": "Лос-Анджелес",
+      "departure_datetime": "2022-08-17 13:45",
+      "arrival_datetime": "2022-08-17 20:00",
+      "aircraft_type": "Airbus A380",
+      "ticket_price": 550.0
+    },
+    {
+      "flight_number": "TK234",
+      "departure_city": "Стамбул",
+      "arrival_city": "Дели",
+      "departure_datetime": "2022-08-18 11:00",
+      "arrival_datetime": "2022-08-18 20:30",
+      "aircraft_type": "Airbus A350",
+      "ticket_price": 400.0
+    },
+    {
+      "flight_number": "AZ456",
+      "departure_city": "Рим",
+      "arrival_city": "Афины",
+      "departure_datetime": "2022-08-19 08:30",
+      "arrival_datetime": "2022-08-19 10:00",
+      "aircraft_type": "Airbus A321",
+      "ticket_price": 120.0
+    },
+    {
+      "flight_number": "SU789",
+      "departure_city": "Москва",
+      "arrival_city": "Хельсинки",
+      "departure_datetime": "2022-08-20 16:15",
+      "arrival_datetime": "2022-08-20 18:30",
+      "aircraft_type": "Boeing 737",
+      "ticket_price": 100.0
+    },
+    {
+      "flight_number": "LH567",
+      "departure_city": "Франкфурт",
+      "arrival_city": "Мюнхен",
+      "departure_datetime": "2022-08-21 14:45",
+      "arrival_datetime": "2022-08-21 16:00",
+      "aircraft_type": "Airbus A320",
+      "ticket_price": 80.0
+    },
+    {
+      "flight_number": "EK901",
+      "departure_city": "Дубаи",
+      "arrival_city": "Мельбурн",
+      "departure_datetime": "2022-08-22 10:30",
+      "arrival_datetime": "2022-08-23 05:45",
+      "aircraft_type": "Boeing 777",
+      "ticket_price": 750.0
+    },
+    {
+      "flight_number": "AA345",
+      "departure_city": "Чикаго",
+      "arrival_city": "Сан-Франциско",
+      "departure_datetime": "2022-08-23 09:30",
+      "arrival_datetime": "2022-08-23 11:45",
+      "aircraft_type": "Airbus A321",
+      "ticket_price": 170.0
+    },
+    {
+      "flight_number": "BA567",
+      "departure_city": "Лондон",
+      "arrival_city": "Рим",
+      "departure_datetime": "2022-08-24 15:00",
+      "arrival_datetime": "2022-08-24 17:15",
+      "aircraft_type": "Boeing 737",
+      "ticket_price": 160.0
+    },
+    {
+      "flight_number": "AF678",
+      "departure_city": "Париж",
+      "arrival_city": "Франкфурт",
+      "departure_datetime": "2022-08-01 18:45",
+      "arrival_datetime": "2022-08-01 23:00",
+      "aircraft_type": "Airbus A320",
+      "ticket_price": 140.0
+    },
+    {
+      "flight_number": "TK789",
+      "departure_city": "Стамбул",
+      "arrival_city": "Мюнхен",
+      "departure_datetime": "2022-08-26 21:30",
+      "arrival_datetime": "2022-08-27 00:15",
+      "aircraft_type": "Boeing 777",
+      "ticket_price": 180.0
+    },
+    {
+      "flight_number": "AZ901",
+      "departure_city": "Рим",
+      "arrival_city": "Лондон",
+      "departure_datetime": "2022-08-27 18:30",
+      "arrival_datetime": "2022-08-27 20:45",
+      "aircraft_type": "Airbus A350",
+      "ticket_price": 200.0
+    },
+    {
+      "flight_number": "SU234",
+      "departure_city": "Москва",
+      "arrival_city": "Петербург",
+      "departure_datetime": "2022-08-28 11:00",
+      "arrival_datetime": "2022-08-28 12:30",
+      "aircraft_type": "Airbus A321",
+      "ticket_price": 90.0
+    },
+    {
+      "flight_number": "EK567",
+      "departure_city": "Дубаи",
+      "arrival_city": "Доха",
+      "departure_datetime": "2022-08-29 14:45",
+      "arrival_datetime": "2022-08-29 16:00",
+      "aircraft_type": "Boeing 737",
+      "ticket_price": 150.0
+    },
+    {
+      "flight_number": "BA901",
+      "departure_city": "Лондон",
+      "arrival_city": "Париж",
+      "departure_datetime": "2022-08-30 19:30",
+      "arrival_datetime": "2022-08-30 21:45",
+      "aircraft_type": "Airbus A320",
+      "ticket_price": 160.0
+    }
+  ]
